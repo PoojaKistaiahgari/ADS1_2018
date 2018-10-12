@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 class Node
@@ -68,7 +69,7 @@ class LList
 		Node temp=head;
 		if(head==null)
 		{
-			System.out.println("steque is empty");
+			System.out.print("steque is empty.");
 		}
 		else
 		{
@@ -114,7 +115,10 @@ public class Solution {
 			    break;
 			}
 	}while(sc.hasNext() && s.length()!=0);
+		if(i!=0)
+		{
 		System.out.println();
+		}
 		}
 }
 }

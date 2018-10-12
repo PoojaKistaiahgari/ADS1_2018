@@ -69,7 +69,7 @@ class LList
 		Node temp=head;
 		if(head==null)
 		{
-			System.out.println("steque is empty.");
+			System.out.println("Steque is empty.");
 		}
 		else
 		{

@@ -1,5 +1,3 @@
-package m7;
-
 import java.util.Scanner;
 
 class Node

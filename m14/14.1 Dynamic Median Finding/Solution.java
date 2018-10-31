@@ -95,7 +95,7 @@ public class Solution
         if(l==1)
  	   {
  		   
- 	 System.out.println(a[0]);
+ 	 System.out.println((double)a[0]);
  	   }
     
  	 

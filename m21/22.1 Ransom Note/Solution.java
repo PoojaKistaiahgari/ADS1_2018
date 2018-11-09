@@ -1,4 +1,3 @@
-package m21;
 
 import java.util.Hashtable;
 import java.util.Scanner;
